@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarsPlayTest</string>
+    <string name="app_header_name">MarsPlay</string>
+    <string name="uploading">Uploading...</string>
+</resources>
