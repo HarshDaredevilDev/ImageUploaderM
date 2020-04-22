@@ -7,7 +7,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class AppConfig {
-    public static String BASE_URL = "################";
+    public static String BASE_URL = "http://206.189.143.205/";
 
     static OkHttpClient okHttpClient = new OkHttpClient.Builder()
             .connectTimeout(2, TimeUnit.MINUTES)
